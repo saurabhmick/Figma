@@ -1,10 +1,12 @@
 import React from 'react'
-import { Button } from 'bootstrap'
+import  '../App.css';
+import  '';
+
 function Navbar() {
   return (
     <div>
         <nav>
-            <Button>Click Me</Button>
+            <h1>Hello</h1>
         </nav>
     </div>
   )
