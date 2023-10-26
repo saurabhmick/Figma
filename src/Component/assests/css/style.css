@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list-group{
+    display: flex;
+    flex-direction: row !important;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-x: auto;
+    list-style-type: none;
+    white-space: nowrap;
+    padding:10px 0px;
+   
+ }
+ .App-header1{
+    background-color: brown;
+    color: white;
+ }
+ ul li a{
+    padding:0px 15px ;
+    margin:0px;
+ }
+ .about_us ,span{
+    text-align: center !important;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+ }
