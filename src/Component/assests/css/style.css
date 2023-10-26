@@ -29,3 +29,33 @@
     font-weight: bold;
 
  }
+ #message{
+   animation: message 4s linear;
+   transition: all 9s !important;
+   box-shadow:1px 1px 2px 3px lightgray;
+  width: 1;
+
+  
+ }
+
+ @keyframes message {
+   0%{
+      opacity:0.1;
+     
+     
+      
+   }
+   100%{
+      opacity:1;
+     
+      
+   }
+   
+ }
+ .footer-widget{
+   display: flex;
+   justify-content: center;
+ }
+ .social-links ul{
+   list-style-type: none;
+ }
