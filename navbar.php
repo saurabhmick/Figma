@@ -7,8 +7,8 @@
     <link href="./assests/css/style.css" rel="stylesheet" type="text/css"/>
     
 </head>
-<body class="demo">
-<div class="container-fluid p-0 ">
+<body style="height:300px !important;overflow:hidden" >
+<div class="container-fluid h-auto">
         <div class="header border ">
             <ul class="d-inline-flex ">
                 <li><a><b>Advance</b>
